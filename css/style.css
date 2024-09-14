@@ -1,16 +1,14 @@
-@font-face {
+/* @font-face {
     font-family: myfont;
     src: url(../font/verah.ttf);
-}
+} */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    /* font-family: "cormorant-garamond-semibold", sans-serif !important; */
-    /* font-family: "avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light", sans-serif !important; */
-    /* font-family: "Garamond Premier Pro Medium Display", sans-serif !important; */
-    font-family: 'myfont', sans-serif !important;
+    font-family: "Roboto", sans-serif !important;
     letter-spacing: 0.2px;
 }
 
@@ -101,6 +99,11 @@
     text-align: justify;
 }
 
+.highlight-container {
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+
 .icon {
     font-size: 50px;
     height: 60px;
@@ -141,6 +144,7 @@
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+    text-align: justify !important;
 }
 
 
@@ -241,6 +245,11 @@
     margin-top: -5rem;
 }
 
+.boldd {
+    color: #111421 !important;
+    font-weight: 600 !important;
+}
+
 
 @media (max-width: 768px) {
     .imghei {
@@ -266,6 +275,7 @@
         max-width: 800px;
         margin-left: auto;
         margin-right: auto;
+        text-align: justify !important;
     }
 
     .full-width {

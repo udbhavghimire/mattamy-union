@@ -140,7 +140,8 @@ convenience, and family-friendly living.">
                                     <p class="headline-textt headline-textt-sm">
 
                                         <a href="https://condomonk.ca/brampton/mattamy-union-brampton"
-                                            class="text-decoration-none text-dark">Union Homes by Mattamy</a> in
+                                            class="text-decoration-none boldd  ">Union Homes by Mattamy</a>
+                                        in
                                         Brampton offers modern townhomes in a
                                         vibrant
                                         community, surrounded by parks, cultural events, and excellent connectivity via
@@ -221,56 +222,56 @@ convenience, and family-friendly living.">
 
 
     <div class="container my-5 pt-md-5 pt-2">
-        <h1 class="text-center fw-bold my-5 fw-bolder fs-1">Highlights of <a
+        <h1 class="text-center fw-bold my-5 fw-bold fs-1">Highlights of <a
                 href="https://homebaba.ca/brampton/mattamy-union-brampton"
                 class="text-decoration-none text-dark">Mattamy Union Townhomes in Brampton</a> </h1>
 
-        <div class="row row-cols-2 row-cols-md-2 row-cols-lg-4 g-5 pt-3">
+        <div class="row row-cols-2 row-cols-md-2 row-cols-lg-4 g-5 pt-3  highlight-container">
             <div class="col">
-                <div class="text-center fw-bold">
+                <div class="text-center">
                     <img src="https://mattamy-secure.akamaized.net//dfsmedia/a2b99d47a71047839a5a4241f44710ce/69511-50086/corporate-icon-highway"
                         alt="" class="icon mb-4">
-                    <h4 class="fw-bolder">Highway Access</h4>
-                    <p class="">Stay easily connected with Highways 410 and 407 nearby.</p>
+                    <h4 class="highlight-fw">Highway Access</h4>
+                    <p>Stay easily connected with Highways 410 and 407 nearby.</p>
                 </div>
             </div>
             <div class="col">
                 <div class="text-center">
                     <img src="https://mattamy-secure.akamaized.net//dfsmedia/a2b99d47a71047839a5a4241f44710ce/39152-50086/corporate-icon-library"
                         alt="" class="icon mb-4">
-                    <h4 class="fw-bolder">Library</h4>
+                    <h4 class="highlight-fw">Library</h4>
                     <p>Explore new releases and timeless classics at your local library.</p>
                 </div>
             </div>
             <div class="col">
-                <div class="text-center fw-bold">
+                <div class="text-center ">
                     <img src="https://mattamy-secure.akamaized.net//dfsmedia/a2b99d47a71047839a5a4241f44710ce/70192-50086/corporate-icon-transportation-hub"
                         alt="" class="icon mb-4">
-                    <h4 class="fw-bolder">Transit</h4>
+                    <h4 class="highlight-fw">Transit</h4>
                     <p>Stay connected with easy access to GO Transit.</p>
                 </div>
             </div>
             <div class="col">
-                <div class="text-center fw-bold">
+                <div class="text-center ">
                     <img src="https://mattamy-secure.akamaized.net//dfsmedia/a2b99d47a71047839a5a4241f44710ce/39170-50086/corporate-icon-park"
                         alt="" class="icon mb-4">
-                    <h4 class="fw-bolder">Nature</h4>
+                    <h4 class="highlight-fw">Nature</h4>
                     <p>Enjoy Brampton's many parks, gardens and playgrounds.</p>
                 </div>
             </div>
             <div class="col">
-                <div class="text-center fw-bold">
+                <div class="text-center ">
                     <img src="https://mattamy-secure.akamaized.net//dfsmedia/a2b99d47a71047839a5a4241f44710ce/39091-50086/corporate-icon-community-center-svg"
                         alt="" class="icon mb-4">
-                    <h4 class="fw-bolder">Recreation</h4>
+                    <h4 class="highlight-fw">Recreation</h4>
                     <p>Get moving at nearby recreation centres.</p>
                 </div>
             </div>
             <div class="col">
-                <div class="text-center fw-bold">
+                <div class="text-center ">
                     <img src="https://mattamy-secure.akamaized.net//dfsmedia/a2b99d47a71047839a5a4241f44710ce/39205-50086/corporate-icon-theme-park-svg"
                         alt="" class="icon mb-4">
-                    <h4 class="fw-bolder">Local Events</h4>
+                    <h4 class="highlight-fw">Local Events</h4>
                     <p>Enjoy Brampton's many food, music and performance art festivals.</p>
                 </div>
             </div>
