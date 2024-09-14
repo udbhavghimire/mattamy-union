@@ -24,10 +24,8 @@
 
     <title>Mattamy Union Homes Brampton - Register Today</title>
     <meta name="title" content="Mattamy Union Homes Brampton - Register Today">
-    <meta name="description" content="Union Homes by Mattamy in Brampton offers modern townhomes in a vibrant
-community, surrounded by parks, cultural events, and excellent connectivity via
-GO Transit and Highways 410 & 407. Experience the perfect blend of lifestyle,
-convenience, and family-friendly living.">
+    <meta name="description"
+        content="Union Homes by Mattamy in Brampton offers modern townhomes in a vibrant community, surrounded by parks, cultural events, and excellent connectivity via GO Transit and Highways 410 & 407. Experience the perfect blend of lifestyle, convenience, and family-friendly living.">
     <meta name="keywords"
         content="Union Homes, Union Homes Brampton, Single-family homes in Brampton, Mattamy Homes, Mattamy Union Brampton">
     <meta name="robots" content="index, follow">
