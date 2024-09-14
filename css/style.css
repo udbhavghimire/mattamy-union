@@ -111,9 +111,9 @@
 }
 
 .imghei {
-    height: 400px;
+    height: 400px !important;
     object-fit: cover;
-    width: 100%;
+    width: 100% !important;
     border-radius: 15px;
 }
 
@@ -252,6 +252,7 @@
 
 
 @media (max-width: 768px) {
+
     .imghei {
         height: 320px;
         object-fit: cover;
@@ -286,6 +287,11 @@
     .card-img-top {
         position: relative;
         height: 350px;
+    }
+
+    .highlight-container {
+        padding-left: 0rem;
+        padding-right: 0rem;
     }
 
     .fixcontact {

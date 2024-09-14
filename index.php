@@ -141,13 +141,11 @@ convenience, and family-friendly living.">
 
                                         <a href="https://condomonk.ca/brampton/mattamy-union-brampton"
                                             class="text-decoration-none boldd  ">Union Homes by Mattamy</a>
-                                        in
-                                        Brampton offers modern townhomes in a
-                                        vibrant
+                                        in Brampton offers modern townhomes in a vibrant
                                         community, surrounded by parks, cultural events, and excellent connectivity via
                                         GO Transit and Highways 410 & 407. Experience the perfect blend of lifestyle,
                                         convenience, and family-friendly living.
-                                    <div class="list d-block headline-textt pt-1">
+                                    <div class="list d-block  fs-5 pt-1">
                                         <p class="mybot pb-md-0 pb-0 ">
                                             Builder: Mattamy Homes
                                         </p>
@@ -477,7 +475,7 @@ convenience, and family-friendly living.">
                 </h2>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Bovaird Drive
                     West & Mississauga Road, Brampton</span>
-                <div class="row row-cols-md-2 row-cols-1">
+                <div class="row row-cols-md-2 row-cols-1 text-center mx-2 mx-md-0">
                     <div class="bg-white p-1  rounded-mine d-flex justify-content-center col">
                         <img src="./images/Union SP-1.jpg" class="img-fluid" alt="">
                     </div>
@@ -491,6 +489,12 @@ convenience, and family-friendly living.">
                     </div>
 
                 </div>
+                <div class="d-flex justify-content-center align-items-center pt-md-3 pt-2 text-center">
+                    <span class="d-flex justify-content-center align-items-center">Disclaimer: The exact location
+                        might
+                        vary from the google map location shown above.</span>
+                </div>
+
             </div>
 
         </div>
@@ -566,7 +570,7 @@ convenience, and family-friendly living.">
 
     <section id="builder">
         <div class="pt-md-5 pt-5"></div>
-        <div class="pt-md-5 pt-5"></div>
+
         <div class="pt-5">
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color">
                 <span class="mx-1">About Mattamy Homes </span>
@@ -574,15 +578,83 @@ convenience, and family-friendly living.">
 
             <span
                 class=" pt-2 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-4 px-4 ">
-
-                Mattamy Homes is a leading new home development company, founded by Peter Gilgan, and named after his
-                children, Matt and Amy. The first Mattamy home was built in Burlington, Ontario, and has stood as a
-                symbol of quality for over 30 years. Guided by strong values and principles, Mattamy is committed to
-                creating a diverse and inclusive environment where homebuyers, employees, and communities feel welcomed
-                and empowered. Their dedication to excellence continues to shape every home they build.</span>
+                Mattamy Homes is a Canadian home builder, founded in Toronto by
+                Peter Gilgan in 1978. One of the largest privately owned builders in North America, Mattamy Homes is
+                Canada's largest residential home builder and top-25 builder in the United States.
+                The first Mattamy home was built in Burlington, Ontario, and has
+                stood as a symbol of quality for over 30 years. Guided by strong values and principles, Mattamy is
+                committed to creating a diverse and inclusive environment where homebuyers, employees, and communities
+                feel welcomed and empowered.</span>
         </div>
     </section>
 
+    <section>
+        <div class="pt-md-5 pt-5"></div>
+
+        <div class="container mt-5">
+            <h2 class="text-center pt-5 fs-1">Some projects from Mattamy homes</h2>
+            <div class="row row-cols-2 row-cols-md-4 g-4 pt-3">
+                <!-- Project 1 -->
+                <div class="col ">
+                    <a href="https://condomonk.ca/milton/the-laurels" target="_blank"
+                        class="text-decoration-none text-dark">
+                        <div class="imghei afte">
+                            <img src="./images/the-laurels.jpg" class="imghei" alt="The Laurels Mattamy Homes">
+                            <div class="card-body">
+                                <h5 class="card-title text-center">The Laurels</h5>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Project 2 -->
+                <div class="col ">
+                    <a href="https://homebaba.ca/milton/mile-and-creek-condos" target="_blank"
+                        class="text-decoration-none text-dark">
+                        <div class="imghei afte">
+                            <img src="./images/mile-and-creek-condos.jpg" class="imghei" alt="Mile and Creek Condos">
+                            <div class="card-body">
+                                <h5 class="card-title text-center">Mile and Creek Condos</h5>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Project 3 -->
+                <div class="col ">
+                    <a href="https://condomonk.ca/milton/hawthorne-south-village-sixteen-mile-creek" target="_blank"
+                        class="text-decoration-none text-dark">
+                        <div class="imghei afte">
+                            <img src="./images/Hawthorne South Village Sixteen Mile Creek.webp" class="imghei"
+                                alt="Hawthorne South Village Sixteen Mile Creek">
+                            <div class="card-body">
+                                <h5 class="card-title text-center">Hawthorne South Village Sixteen Mile Creek</h5>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Project 4 -->
+                <div class="col ">
+                    <a href="https://homebaba.ca/calgary/carrington" target="_blank"
+                        class="text-decoration-none text-dark">
+                        <div class="imghei afte">
+                            <img src="./images/Carrington by Mattamy Homes.webp" class="imghei"
+                                alt="Carrington by Mattamy Homes">
+                            <div class="card-body">
+                                <h5 class="card-title text-center">Carrington by Mattamy</h5>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+    <div class="pt-md-5 pt-5"></div>
+    <div class="pt-md-5 pt-5"></div>
     <div class="floating fixcontact"><a href="#Contact"
             class="btn bgggggggg br-m text-dark w-100 py-2 shadow-lg d-md-none d-block">Register Now
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
@@ -681,9 +753,11 @@ convenience, and family-friendly living.">
                     </a>
 
                     <span class="small-text justifyy">
-                        We do not represent the builder. All renderings, incentives, pricing are subject to terms &
-                        conditions and may change at anytime without notice – see sales representatives for more
-                        details. not intended to solicit those under contract with another brokerage. </span>
+                        Disclaimer: We do not represent the builder. The renderings, floor plans, and images used on
+                        this website are for illustrative purposes only and may not reflect the final product. Features,
+                        dimensions, materials, and colors are subject to change without notice. Actual homes may vary in
+                        appearance. Please consult with the builder for the most up-to-date information on the homes and
+                        specifications </span>
                     <div class="list pt-2 d-md-block d-none">
                         <p class=""> <a href="https://dolphy.ca/pre-construction-homes/brampton" target="_blank"
                                 class="text-dark text-decoration-none"><strong>
