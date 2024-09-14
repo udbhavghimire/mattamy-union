@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="font/verah.ttf">
 
 
-    <title>Union Homes Brampton - Register Today</title>
+    <title>Mattamy Union Homes Brampton - Register Today</title>
     <meta name="title" content="Union Homes Brampton | Mattamy Homes">
     <meta name="description" content="Union Homes by Mattamy in Brampton offers modern townhomes in a vibrant
 community, surrounded by parks, cultural events, and excellent connectivity via
