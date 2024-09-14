@@ -139,7 +139,10 @@ convenience, and family-friendly living.">
                                     </h3> -->
                                     <p class="headline-textt headline-textt-sm">
 
-                                        Union Homes by Mattamy in Brampton offers modern townhomes in a vibrant
+                                        <a href="https://condomonk.ca/brampton/mattamy-union-brampton"
+                                            class="text-decoration-none text-dark">Union Homes by Mattamy</a> in
+                                        Brampton offers modern townhomes in a
+                                        vibrant
                                         community, surrounded by parks, cultural events, and excellent connectivity via
                                         GO Transit and Highways 410 & 407. Experience the perfect blend of lifestyle,
                                         convenience, and family-friendly living.
@@ -218,7 +221,9 @@ convenience, and family-friendly living.">
 
 
     <div class="container my-5 pt-md-5 pt-2">
-        <h1 class="text-center fw-bold my-5 fw-bolder fs-1">Highlights of Mattamy Union Townhomes in Brampton</h1>
+        <h1 class="text-center fw-bold my-5 fw-bolder fs-1">Highlights of <a
+                href="https://homebaba.ca/brampton/mattamy-union-brampton"
+                class="text-decoration-none text-dark">Mattamy Union Townhomes in Brampton</a> </h1>
 
         <div class="row row-cols-2 row-cols-md-2 row-cols-lg-4 g-5 pt-3">
             <div class="col">
@@ -667,18 +672,22 @@ convenience, and family-friendly living.">
         <div class="container ">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0">
-                    <p class=" ">
-                        <span class="fs-1 fw-bold">UNION</span>
-                    </p>
+                    <a href=" https://homebaba.ca/brampton/mattamy-union-brampton"
+                        class="text-decoration-none text-dark">
+                        <p class=" ">
+                            <span class="fs-1 fw-bold">UNION</span>
+                        </p>
+                    </a>
+
                     <span class="small-text justifyy">
                         We do not represent the builder. All renderings, incentives, pricing are subject to terms &
                         conditions and may change at anytime without notice – see sales representatives for more
                         details. not intended to solicit those under contract with another brokerage. </span>
                     <div class="list pt-2 d-md-block d-none">
-                        <p class=""> <a href="https://condomonk.ca/brampton" target="_blank"
+                        <p class=""> <a href="https://dolphy.ca/pre-construction-homes/brampton" target="_blank"
                                 class="text-dark text-decoration-none"><strong>
                                     Check out all Brampton pre construction homes projects on
-                                    Condomonk.</strong></a>
+                                    Dolphy.</strong></a>
                         </p>
 
                     </div>
@@ -712,10 +721,10 @@ convenience, and family-friendly living.">
             </div>
 
             <div class="list mt-5 pt-5 d-md-none d-block center-sm">
-                <p class=""> <a href="https://condomonk.ca/brampton" target="_blank"
+                <p class=""> <a href="https://dolphy.ca/pre-construction-homes/brampton" target="_blank"
                         class="text-dark text-decoration-none"><strong>
                             Check out all Brampton pre construction homes projects on
-                            Condomonk.</strong></a>
+                            Dolphy.</strong></a>
                 </p>
 
             </div>
