@@ -3,17 +3,12 @@
 
 <head>
     <!-- Event snippet for Clover landing page conversion page -->
-<script>
-  gtag('event', 'conversion', {
-      'send_to': 'AW-16465866560/t82XCPWe9aAZEMDexKs9',
-      'value': 1.0,
-      'currency': 'CAD'
-  });
-</script>
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="font/verah.ttf">
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -25,16 +20,17 @@
 <body class="bg-light">
 
     <section id="thankyou">
-        <div class="text-center pt-lg-2 pt-0">
-            <img src="../images/clover-condos-logo.png" class="img-fluid pt-5" alt="">
+        <div class="text-center pt-lg-5 pt-5 pt-0">
+
+            <span class="fs-1 fw-bold">UNION</span>
             <div class="  text-center">
                 <div class="tick">
-                <img id="tick-gif" src="../images/tick.gif" alt="">
+                    <img id="tick-gif" src="../images/tick.gif" alt="">
                 </div>
-               <div class="thankyou-container">
-               <span class=" d-block thankyou mb-0">Thank you!</span>
-                <span class="d-block fs-1 pb-5 mt-0">We will reach out to you soon.</span>
-               </div>
+                <div class="thankyou-container">
+                    <span class=" d-block thankyou mb-0">Thank you!</span>
+                    <span class="d-block fs-1 pb-5 mt-0">We will reach out to you soon.</span>
+                </div>
 
                 <div class="pt-5">
                     <a href="../" class="text-dark fs-4 "> BACK TO HOME</a>
@@ -44,7 +40,7 @@
         </div>
 
     </section>
-   
+
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->

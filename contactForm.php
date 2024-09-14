@@ -20,7 +20,10 @@ $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
 $mail->setFrom('info@mattamyunion.ca', $_POST['name']);
-$mail->addAddress('contact@homebaba.ca');
+// $mail->addAddress('contact@homebaba.ca');
+$mail->addAddress('ghimireudbhav@gmail.com');
+
+
 
 
 $mail->addReplyTo($_POST['email']);
