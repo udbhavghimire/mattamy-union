@@ -144,7 +144,7 @@
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
-    text-align: justify !important;
+
 }
 
 
@@ -254,7 +254,7 @@
 @media (max-width: 768px) {
 
     .imghei {
-        height: 320px;
+        height: 280px !important;
         object-fit: cover;
         width: 100%;
         border-radius: 15px;
@@ -276,8 +276,16 @@
         max-width: 800px;
         margin-left: auto;
         margin-right: auto;
-        text-align: justify !important;
+
     }
+
+    .headline-textt {
+        font-size: 1.2rem;
+        max-width: 500px;
+        line-height: 2rem;
+        text-align: justify;
+    }
+
 
     .full-width {
         flex: 0 0 100%;

@@ -184,8 +184,7 @@
                         <section>
                             <div class="rounded-3">
                                 <div class="d-flex justify-content-between pb-3">
-                                    <div
-                                        class="row me-0 row-cols-2 row-cols-sm-2 row-cols-lg-3 justify-content-center g-md-4 g-2  me-0">
+                                    <div class="row me-0 row-cols-2 row-cols-sm-2 row-cols-lg-3  g-md-4 g-2  me-0">
                                         <div class="col">
                                             <div class="afte">
                                                 <img loading="lazy" src="images/union1.jpg" alt="Union Homes"
@@ -575,7 +574,7 @@
             </h2>
 
             <span
-                class=" pt-2 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-4 px-4 ">
+                class=" pt-3 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-4 px-4 ">
                 Mattamy Homes is a Canadian home builder, founded in Toronto by
                 Peter Gilgan in 1978. One of the largest privately owned builders in North America, Mattamy Homes is
                 Canada's largest residential home builder and top-25 builder in the United States.
@@ -590,16 +589,16 @@
         <div class="pt-md-5 pt-5"></div>
 
         <div class="container mt-5">
-            <h2 class="text-center pt-5 fs-1">Some projects from Mattamy homes</h2>
-            <div class="row row-cols-2 row-cols-md-4 g-4 pt-3">
+            <h2 class="text-center pt-5 fs-1">Some of the projects from Mattamy homes</h2>
+            <div class="row row-cols-2 row-cols-md-4 gx-3 pt-3 gy-5">
                 <!-- Project 1 -->
                 <div class="col ">
                     <a href="https://condomonk.ca/milton/the-laurels" target="_blank"
                         class="text-decoration-none text-dark">
                         <div class="imghei afte">
                             <img src="./images/the-laurels.jpg" class="imghei" alt="The Laurels Mattamy Homes">
-                            <div class="card-body">
-                                <h5 class="card-title text-center">The Laurels</h5>
+                            <div class="card-body mb-5">
+                                <h5 class="card-title mb-5 text-center">The Laurels</h5>
                             </div>
                         </div>
                     </a>
@@ -611,36 +610,36 @@
                         class="text-decoration-none text-dark">
                         <div class="imghei afte">
                             <img src="./images/mile-and-creek-condos.jpg" class="imghei" alt="Mile and Creek Condos">
-                            <div class="card-body">
-                                <h5 class="card-title text-center">Mile and Creek Condos</h5>
+                            <div class="card-body mb-5">
+                                <h5 class="card-title mb-5 text-center">Mile and Creek Condos</h5>
                             </div>
                         </div>
                     </a>
                 </div>
 
                 <!-- Project 3 -->
-                <div class="col ">
+                <div class="col pt-5 pt-md-0">
                     <a href="https://condomonk.ca/milton/hawthorne-south-village-sixteen-mile-creek" target="_blank"
                         class="text-decoration-none text-dark">
                         <div class="imghei afte">
                             <img src="./images/Hawthorne South Village Sixteen Mile Creek.webp" class="imghei"
                                 alt="Hawthorne South Village Sixteen Mile Creek">
-                            <div class="card-body">
-                                <h5 class="card-title text-center">Hawthorne South Village Sixteen Mile Creek</h5>
+                            <div class="card-body mb-5">
+                                <h5 class="card-title mb-5 text-center">Hawthorne South Village Sixteen Mile Creek</h5>
                             </div>
                         </div>
                     </a>
                 </div>
 
                 <!-- Project 4 -->
-                <div class="col ">
+                <div class="col pt-5 pt-md-0">
                     <a href="https://homebaba.ca/calgary/carrington" target="_blank"
                         class="text-decoration-none text-dark">
                         <div class="imghei afte">
                             <img src="./images/Carrington by Mattamy Homes.webp" class="imghei"
                                 alt="Carrington by Mattamy Homes">
-                            <div class="card-body">
-                                <h5 class="card-title text-center">Carrington by Mattamy</h5>
+                            <div class="card-body mb-5">
+                                <h5 class="card-title mb-5 text-center">Carrington by Mattamy</h5>
                             </div>
                         </div>
                     </a>
