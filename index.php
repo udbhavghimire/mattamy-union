@@ -221,7 +221,8 @@
                 href="https://homebaba.ca/brampton/mattamy-union-brampton"
                 class="text-decoration-none text-dark">Mattamy Union Townhomes in Brampton</a> </h1>
 
-        <div class="row row-cols-2 row-cols-md-2 row-cols-lg-4 g-5 pt-3  highlight-container">
+        <div
+            class="row row-cols-2 row-cols-md-2 d-flex justify-content-center row-cols-lg-4 g-4 gy-5 pt-3  highlight-container">
             <div class="col">
                 <div class="text-center">
                     <img src="https://mattamy-secure.akamaized.net//dfsmedia/a2b99d47a71047839a5a4241f44710ce/69511-50086/corporate-icon-highway"
@@ -502,7 +503,7 @@
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
                 <span class="mx-1 pb-5"> Mattamy Union Homes FAQ</span> </span>
             </h2>
-            <div class="accordion accordion-flush pt-4" id="accordionFlushExample">
+            <div class="accordion accordion-flush pt-4 " id="accordionFlushExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="flush-headingTwo">
                         <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
