@@ -217,9 +217,9 @@
 
 
     <div class="container my-5 pt-md-5 pt-2">
-        <h1 class="text-center fw-bold my-5 fw-bold fs-1">Highlights of <a
+        <h2 class="text-center fw-bold my-5 fw-bold fs-1">Highlights of <a
                 href="https://homebaba.ca/brampton/mattamy-union-brampton"
-                class="text-decoration-none text-dark">Mattamy Union Townhomes in Brampton</a> </h1>
+                class="text-decoration-none text-dark">Mattamy Union Townhomes in Brampton</a> </h2>
 
         <div
             class="row row-cols-2 row-cols-md-2 d-flex justify-content-center row-cols-lg-4 g-4 gy-5 pt-3  highlight-container">
@@ -505,12 +505,12 @@
             </h2>
             <div class="accordion accordion-flush pt-4 " id="accordionFlushExample">
                 <div class="accordion-item">
-                    <h2 class="accordion-header" id="flush-headingTwo">
+                    <h3 class="accordion-header" id="flush-headingTwo">
                         <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
                             data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
                             Reasons to invest in Mattamy Union Homes in Brampton
                         </button>
-                    </h2>
+                    </h3>
                     <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
                         data-bs-parent="#accordionFlushExample">
                         <div class="accordion-body">
@@ -534,12 +534,12 @@
                     </div>
                 </div>
                 <div class="accordion-item">
-                    <h2 class="accordion-header " id="flush-headingOne">
+                    <h3 class="accordion-header " id="flush-headingOne">
                         <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
                             data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
                             When is Mattamy Union Homes Launch?
                         </button>
-                    </h2>
+                    </h3>
                     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
                         data-bs-parent="#accordionFlushExample">
                         <div class="accordion-body">Mattamy Union Homes in Brampton is expected to launch in 2026 or
@@ -548,13 +548,13 @@
                 </div>
 
                 <div class="accordion-item">
-                    <h2 class="accordion-header" id="flush-headingThree">
+                    <h3 class="accordion-header" id="flush-headingThree">
                         <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
                             data-bs-target="#flush-collapseThree" aria-expanded="false"
                             aria-controls="flush-collapseThree">
                             What is the location of Mattamy Union homes?
                         </button>
-                    </h2>
+                    </h3>
                     <div id="flush-collapseThree" class="accordion-collapse collapse"
                         aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                         <div class="accordion-body">The location of Mattamy Union Homes is Bovaird Drive West &
