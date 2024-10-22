@@ -124,8 +124,7 @@
                         <div class="">
                             <div>
                                 <div>
-                                    <span class="fw-bold bg-danger text-white headline-textt px-2 fs-4">$75,000
-                                        off</span>
+
                                     <h1 class="main-titlee mb-0  mt-0 mb-0 pb-0 center-sm">
                                         Mattamy Union Brampton
                                     </h1>
