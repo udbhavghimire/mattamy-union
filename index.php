@@ -1,6 +1,5 @@
 <?php session_start(); ?>
 
-
 <!doctype html>
 <html lang="en">
 
@@ -125,12 +124,16 @@
                         <div class="">
                             <div>
                                 <div>
+                                    <span class="fw-bold bg-danger text-white headline-textt px-2 fs-4">$75,000
+                                        off</span>
                                     <h1 class="main-titlee mb-0  mt-0 mb-0 pb-0 center-sm">
                                         Mattamy Union Brampton
                                     </h1>
 
+
                                 </div>
                                 <div class="pt-2 pt-sm-2 pt-md-4 rounded-mine mt-4 ">
+
                                     <!-- <h3 class="text-mine main-title fs-5 fw-mine2 mt-5 mb-2 mb-md-3 pb-1 center-sm">
                                     Starting from $400s
                                         
@@ -570,6 +573,7 @@
         <div class="pt-md-5 pt-5"></div>
 
         <div class="pt-5">
+
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color">
                 <span class="mx-1">About Mattamy Homes </span>
             </h2>
